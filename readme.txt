@@ -1,4 +1,5 @@
 === Slider by Nivo - Responsive WordPress Image Slider ===
+Plugin Name: Slider by Nivo - Responsive Image Slider
 Contributors: themeisle, codeinwp, nivoslider
 Tags: slider, nivo,slider plugin, slideshow, slideshow plugin, template tag, wordpress gallery, wordpress image slider, wordpress photo gallery
 Requires at least: 3.0
