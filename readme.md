@@ -11,25 +11,12 @@ Nivo Slider is The Most Popular And Easiest to Use Responsive WordPress Slider P
 
 ## Description ##
 
-The Nivo Slider is the worlds most popular jquery image slider plugin, downloaded over **3,000,000** times since it's inception. This
-is the "Lite" version of the official [Nivo Slider WordPress plugin](https://themeisle.com/plugins/nivo-slider?utm_source=wordpress.org&utm_medium=web&utm_content=description_link&utm_campaign=nivoslider_lite_plugin)
-which comes with email support and more features.
+The Nivo Slider is the worlds most popular jquery image slider plugin, downloaded over **3,000,000** times since it's inception.
 
 The plugin let's you easily create a post slider, an image carousel or a slideshow, right from your dashboard, without settings that you don't need. Can act as a homepage slider as well and it works great with our [WordPress themes](https://themeisle.com/wordpress-themes/free/).
 
 Why Choose Nivo Slider?
 Nivo Slider is the best choice for a WordPress slider plugin because it is fast, intuitive and super easy to use. Is not the most feature-rich plugin on the market (like revolution slider or layer slider), but if you need just a responsive content slider that works, check it out!
-
-**Get more awesome features by upgrading to the full plugin:**
-
-* Create sliders from **Galleries, Categories and Sticky Posts**
-* More custom **themes**
-* Build carousels.
-* Upcoming lightboxes support.
-* Automatic updates.
-* Priority support.
-
-**[Click here to purchase the full plugin](https://themeisle.com/plugins/nivo-slider?utm_source=wordpress.org&utm_medium=web&utm_content=purchase_link&utm_campaign=nivoslider_lite_plugin)**
 
  = See how Nivo can integrate with your website  =
 
@@ -49,17 +36,10 @@ Nivo Slider is the best choice for a WordPress slider plugin because it is fast,
 ## Frequently Asked Questions ##
 
 ### How to use  Custom Themes with the Nivo Slider ###
-http://docs.themeisle.com/article/510-using-custom-themes-with-the-nivo-slider
+[http://docs.themeisle.com/article/510-using-custom-themes-with-the-nivo-slider](http://docs.themeisle.com/article/510-using-custom-themes-with-the-nivo-slider)
 
 ### How to use  Nivo Slider template tag ###
-http://docs.themeisle.com/article/509-using-the-nivo-slider-template-tag
-
-
-### I'd like access to more features and support. How can I get them? ###
-
-You can get access to more features and support by visiting the Themeisle website and
-[purchasing a license](https://themeisle.com/plugins/nivo-slider?utm_source=wordpress.org&utm_medium=web&utm_content=faq_link&utm_campaign=nivoslider_lite_plugin).
-Purchasing a license gets you access to the full version of the Nivo Slider WordPress plugin, automatic updates and support.
+[http://docs.themeisle.com/article/509-using-the-nivo-slider-template-tag](http://docs.themeisle.com/article/509-using-the-nivo-slider-template-tag)
 
 ## Screenshots ##
 
